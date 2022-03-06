@@ -1,4 +1,3 @@
-#!/bin/bash
 git add --all
-git commit -a -m "added file(s)"
+git commit -a -m "changing files"
 git push
